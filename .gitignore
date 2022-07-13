@@ -1,0 +1,10 @@
+build/**
+deps/fmt/**
+deps/nlohmann/**
+AntColonyVisualization
+AntColonyVisualization.exe
+.vscode/settings.json
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/targets.log
+imgui.ini
