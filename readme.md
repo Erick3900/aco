@@ -15,6 +15,7 @@ Implementación del algoritmo de optimización por colonia de hormigas.
   - Agregar edges
   - Modificar pesos
   - Mover los nodos en la pantalla (presionar `M`)
+  - Para deseleccionar un nodo presionar `ESC`
   
 ![Modo edición](imgs/img2.png "Modo de edición")
 
